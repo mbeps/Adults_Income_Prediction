@@ -26,13 +26,13 @@ Random Forests inherently work well with one-hot encoded data. When features are
 
 In this project, **Grid Search** was employed for hyperparameter tuning. Grid Search works by defining a grid of hyperparameters and then exploring a model's performance for each point in the grid. This ensures we don't miss out on any potential combinations that might enhance our model's predictive capability.
 
-# **Running Application Locally**
-These are simple steps to run the Income Prediction application locally. 
+# **Running Notebook Locally**
+These are simple steps to run the notebook locally. 
 Jupyter is required.
 
 ## 1. **Clone the Project Locally**
 ```sh
-git clone https://github.com/mbeps/Adults_Income_Prediction.git
+git clone https://github.com/mbeps/House_Price_Prediction.git
 ```
 
 ## 2. **Set Up Environment**
@@ -48,8 +48,6 @@ poetry install
 ```
 
 ## 3. **Run the Project**
-After setting up the environment and installing all dependencies, navigate to the project's root directory and run the main application script.
+After setting up the environment and installing all dependencies, navigate to the project's root directory and run the main notebook. 
 
----
-
-Note: Adjust the specific steps, commands, or any other requirements based on the nature of your project or any additional configurations that might be needed.
+> Note: Adjust the specific steps, commands, or any other requirements based on the nature of your project or any additional configurations that might be needed.
