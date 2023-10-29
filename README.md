@@ -32,7 +32,7 @@ Jupyter is required.
 
 ## 1. **Clone the Project Locally**
 ```sh
-git clone git@github.com:mbeps/Income_Prediction.git
+git clone https://github.com/mbeps/Adults_Income_Prediction.git
 ```
 
 ## 2. **Set Up Environment**
